@@ -1,0 +1,171 @@
+.cccc:active {
+	transform: scale(.85);
+	background: 0 0;
+	box-shadow: 0 0 1px #666
+}
+.ks-carousel-slider .swiper-slide {
+	box-sizing: border-box;
+	border: 1px solid #fff;
+	background: #fff;
+}
+.searchbar {
+	background: #ffffff
+}
+.layout-white .searchbar {
+	background: #ffffff;
+}
+.theme-gray .button.active:not(.button-fill) {
+	background-color: #828282;
+}
+.theme-gray .button:not(.button-fill) {
+	border-color: #828282;
+}
+.theme-gray .open-indicator item-link.list-button, .theme-gray a {
+	color: #828282;
+}
+.container {
+	margin: 0 auto;
+	max-width: 1200px;
+	min-width: 960px;
+	padding: 0 20px;
+	width: 100%;
+}
+.ion {
+	-webkit-touch-callout: text;
+	-webkit-user-select: text;
+	-khtml-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+}
+.step:hover i {
+	opacity: .3;
+}
+.size-12 {
+	font-size: 12px;
+}
+.size-14 {
+	font-size: 14px;
+}
+.size-16 {
+	font-size: 16px;
+}
+.size-18 {
+	font-size: 18px;
+}
+.size-21 {
+	font-size: 21px;
+}
+.size-24 {
+	font-size: 24px;
+}
+.size-28 {
+	font-size: 29.5px;
+}
+.size-32 {
+	font-size: 32px;
+}
+.size-48 {
+	font-size: 48px;
+}
+.size-64 {
+	font-size: 64px;
+}
+.size-96 {
+	font-size: 96px;
+}
+.usage label {
+	font-size: 12px;
+	text-align: right;
+	padding: 0 3px 0 60px;
+}
+
+/* Rating */
+
+.ratings {
+	position: relative;
+	vertical-align: middle;
+	display: inline-block;
+	color: #b1b1b1;
+	overflow: hidden;
+}
+.full-stars {
+	position: absolute;
+	left: 0;
+	top: 0;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #fde16d;
+}
+.empty-stars:before, .full-stars:before {
+	content: "\2605\2605\2605\2605\2605";
+	font-size: 14pt;
+}
+.empty-stars:before {
+	-webkit-text-stroke: 1px #848484;
+}
+.full-stars:before {
+	-webkit-text-stroke: 1px orange;
+}
+
+/* Rating */
+
+h1 {
+	text-align: left;
+	width: 86%;
+	font-size: 50%;
+	margin: 2px auto;
+	color: black;
+	font-weight: normal;
+}
+h2 {
+	text-align: left;
+	width: 86%;
+	font-size: 65%;
+	margin: 1px auto;
+	color: gray;
+	font-weight: normal;
+}
+h3 {
+	font-size: 83%;
+	margin: -2px auto;
+	color: black;
+	font-weight: normal;
+}
+h4 {
+	font-size: 120%;
+	margin: 2px auto;
+	color: black;
+	font-weight: normal;
+}
+h5 {
+	font-size: 75%;
+	margin: -2px auto;
+	color: gray;
+	font-weight: normal;
+}
+h6 {
+	font-size: 75%;
+	margin: 1px auto;
+	color: red;
+	font-weight: normal;
+}
+.content-block-title {
+	width: 100%;
+	margin: -7px auto;
+}
+.list-block {
+	margin: 0px auto;
+	width: 100%;
+}
+.center-text {
+	text-align: center;
+}
+.item-content {
+	margin: 0px auto;
+	width: 100%;
+}
+.item-inner {
+	margin: 0px auto;
+	width: 100%;
+}
