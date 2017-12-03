@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>Yhttps://archive.org/download/BobbyMovieV3.2.0_201712/Bobby%20Movie%2b%2b%20v3.2.0.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.apple.carbonframeworktemplate</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>   		
+				<string>41A472</string>
+				<key>title</key>
+				<string>Twitter++</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
